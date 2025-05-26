@@ -2,7 +2,7 @@
 
 
 
-https://github.com/Prakriti0906/water_quality_analysis/blob/main/Data/test1.csv:In the data given, the various features were accounted for, which are responsible for accounting for the post monsoon **EWQI** (Entropy weighted water quality index of water)
+https://github.com/Prakriti0906/water_quality_analysis/blob/main/Data/test1.csv: In the data given, the various features were accounted for, which are responsible for accounting for the post monsoon **EWQI** (Entropy weighted water quality index of water)
 
 
 https://github.com/Prakriti0906/water_quality_analysis/blob/main/HyperparameterTuning/Autosampler/Optuna_autosampler_WaterQualtiy%20(1).ipynb:
